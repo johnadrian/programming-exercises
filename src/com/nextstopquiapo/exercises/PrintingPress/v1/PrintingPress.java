@@ -1,4 +1,4 @@
-package com.nextstopquiapo.exercises.PrintingPress;
+package com.nextstopquiapo.exercises.PrintingPress.v1;
 
 public class PrintingPress {
 
